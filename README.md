@@ -1,11 +1,7 @@
-# JOXNEWS-Landing-Page  This website is JOXNEWS Landing Page made with Bootstrap 
+# JOXNEWS-Landing-Page made with Bootstrap 
 
-# Live Link
+# Live Link : 
+https://ak-abid.github.io/Bootstrap-project/
 
 
 
-# Bootstrap-project-2
-# Bootstrap-project-2
-# Bootstrap-project-2
-# Bootstrap-project-2
-# Bootstrap-project
